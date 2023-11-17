@@ -1,4 +1,4 @@
-const celulas = document.querySelector(".celula");
+const celulas = document.querySelector(".celulas");
 let checarTurno = true;
 let turno;
 
