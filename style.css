@@ -40,9 +40,9 @@ h2 {
     margin: 0 auto;
     margin-top: 20px;
     padding: 10px 20px;
-    border: 2px solid cadetblue;
-    background-color: cadetblue;
-    color: white;
+    border: 2px solid blue;
+    background-color: red;
+    color: violet;
     cursor: pointer;
 
 }
